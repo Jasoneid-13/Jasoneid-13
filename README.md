@@ -28,7 +28,7 @@
 [linkedin]: https://www.linkedin.com/in/jackson-bryan-00272815a/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jJackson/jasoneid-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
