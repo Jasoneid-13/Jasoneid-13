@@ -4,7 +4,7 @@
 - Project Faust https://github.com/Jasoneid-13/Faust/blob/main/README.md
 
 <h2>👨‍💻 Graphic Design:</h2>
-- Dermec Skin Care 
+- Dermec Skin Care https://github.com/Jasoneid-13/Dermec
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Jasoneid-13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
