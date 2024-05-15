@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jack! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-Project Faust https://github.com/Jasoneid-13/Faust/blob/main/README.md
+- Project Faust https://github.com/Jasoneid-13/Faust/blob/main/README.md
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Jasoneid-13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
